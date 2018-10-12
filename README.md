@@ -1,5 +1,6 @@
 # CodeFunDo-
-Prediction and Management of a natural disaster
+Prediction and Management of a natural disaster.
+
 A variety of natural calamities occur every year in different parts of the world , taking a million lives. Predicting a natural disaster is a topic that is being researched on for years . When it comes to the management after a calamity, we still use manual methods which aren’t  efficient. Here , we propose a soluton for prediction as well as managing the after effects of an Earthquake.
 
 Earthquake can generate electromagnetic (EM) waves because of the electrokinetic effect.These generated EM waves arrive at a distant observatory much earlier than the seismic waves because their velocities are much faster than those of the seismic waves. Taking advantage of this fact, we believe that we can predict an Earthquake by training a system using the following attributes:
